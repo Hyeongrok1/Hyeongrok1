@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Hyeongrok1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeongrok1&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loggy0323)](https://solved.ac/loggy0323/)
