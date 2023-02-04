@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loggy0323)](https://solved.ac/loggy0323/)
 
 ![Hyeongrok1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeongrok1&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeongrok1)](https://github.com/Hyeongrok1/github-readme-stats)
