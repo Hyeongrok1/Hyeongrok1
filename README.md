@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 ![Hyeongrok1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeongrok1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeongrok1)](https://github.com/Hyeongrok1/github-readme-stats)
