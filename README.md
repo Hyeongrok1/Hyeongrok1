@@ -22,17 +22,17 @@ loggy0323@g.skku.edu <br>
 * 웹 개발
 
 #### Education
-* [2022.02 ~ now] 성균관대학교 소프트웨어학과 (Department of Computer Science and Engineering, Sungkyunkwan University)
+* [2022.02 ~ now] 성균관대학교 소프트웨어학과 학부 과정 (Department of Computer Science and Engineering, Sungkyunkwan University)
 
 #### Major subjects taken
-* Data structure 
-* System Program 
-* Computer Architecture 
-* Java Programming Practice 
-* System Programming Lab 
-* Operating System 
+* 자료구조개론 Data structure 
+* 시스템 프로그램 System Program 
+* 컴퓨터구조개론 Computer Architecture 
+* 자바 프로그래밍 실습 Java Programming Practice 
+* 시스템 프로그래밍 실습 System Programming Lab 
+* 운영체제 Operating System 
 
-#### Skills
+#### Learning Skills
 * C/C++
 * Javascript/Typescript
 * Python (Data analysis basis)
@@ -42,16 +42,16 @@ loggy0323@g.skku.edu <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeongrok1&layout=compact&theme=Demo)
 
-#### Certificate
-* 리눅스 마스터 2급 - 2023.03.31.
+#### Certificate and Award
 * SKKU Dean's list - 2022.
+* 리눅스 마스터 2급 - 2023.03.31.
 
 
 #### Projects
 * xv6 project (OS)
-* System Programming Lab
-* Game Project using Java - Fisherman's life 
-* Codedang
-* SKKUZZIM
+* System Programming Lab Projects 
+* Game Project using Java - Fisherman's life (java)
+* Codedang (web)
+* SKKUZZIM (web)
 
 
