@@ -43,7 +43,7 @@ loggy0323@g.skku.edu <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeongrok1&layout=compact&theme=Demo)
 
 #### Certificate and Award
-* SKKU Dean's list - 2022.
+* SKKU Dean's list (학부 성적 우수상) - 2022.11.30.
 * 리눅스 마스터 2급 - 2023.03.31.
 
 
