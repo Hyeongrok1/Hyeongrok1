@@ -38,7 +38,8 @@ loggy0323@g.skku.edu <br>
 * Python (Data analysis basis)
 * Java
 * Nest.js
-* Express.js 
+* Express.js
+* Prisma
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeongrok1&layout=compact&theme=Demo)
 
