@@ -1,3 +1,3 @@
 ### Hello!👋
 
-studying cs, mathematics
+currently studying computer science, and mathematics
